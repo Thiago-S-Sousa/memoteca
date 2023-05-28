@@ -15,3 +15,11 @@ Elaboração e estilização do rodapé da aplicação
 Elaboração e estilização do formulário da aplicação
 ###
 ![fomulario1](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/3b82846c-2e98-4bf6-b57e-ab713cd62706)
+
+### Mural de pensamentos :
+Elaboração e estilização do mural de pensamentos da aplicação, responsável por exibir os pensamentos e citações já existentes.
+Aplicando rotas para a melhoria na comunicação entre componentes ultilizando o RouterModule e suas diretivas
+###
+![memoteca-mural](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/3f4ad832-cf39-42dc-ac20-99b5ed3558a8)
+###
+![memoteca-rotas](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/64523b62-6043-4b71-9672-3236bdb09be7)

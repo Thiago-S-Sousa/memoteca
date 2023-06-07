@@ -34,3 +34,7 @@ Aplicando rotas para a melhoria na comunicação entre componentes ultilizando o
 ###
 ![botoes](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/84f731db-61ab-4c02-b5a5-9e0c098a870d)
 
+###
+Aplicando validações na aplicação, mostrando mensagens de erro e ocultando botão de salvar até que as validações sejam atendidas
+##
+![validacoes](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/0fe33db1-250b-43f6-ba7b-d8c5397c8868)

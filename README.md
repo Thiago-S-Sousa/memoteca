@@ -23,3 +23,14 @@ Aplicando rotas para a melhoria na comunicação entre componentes ultilizando o
 ![memoteca-mural](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/3f4ad832-cf39-42dc-ac20-99b5ed3558a8)
 ###
 ![memoteca-rotas](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/64523b62-6043-4b71-9672-3236bdb09be7)
+
+### Modal de exclusão :
+Elaboração e estilização do modal de exclusão de pensamentos da aplicação, responsável por exibir o modal com o componente responsável por excluir pensamentos e citações já existentes.
+###
+![modal-excluir](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/bc06f1b7-7bf5-451c-98fe-f8c85fb468d4)
+
+###
+Aplicando rotas para a melhoria na comunicação entre componentes ultilizando o RouterModule e suas diretivas, além de aplicar o modo de editar na aplicação
+###
+![botoes](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/84f731db-61ab-4c02-b5a5-9e0c098a870d)
+

@@ -38,3 +38,8 @@ Aplicando rotas para a melhoria na comunicação entre componentes ultilizando o
 Aplicando validações na aplicação, mostrando mensagens de erro e ocultando botão de salvar até que as validações sejam atendidas
 ##
 ![validacoes](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/0fe33db1-250b-43f6-ba7b-d8c5397c8868)
+
+###
+Inserindo campo de busca e filtro na aplicação
+##
+![filtro](https://github.com/Thiago-S-Sousa/memoteca/assets/128821560/f16cbaf9-3ea1-4a45-aeeb-9925537791f7)
